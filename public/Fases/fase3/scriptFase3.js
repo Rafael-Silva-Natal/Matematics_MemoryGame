@@ -167,7 +167,7 @@ function checkCards() {
  // Função para lidar com o clique no botão
  function redirecionar3() {
   // Altere o URL abaixo para a página desejada
-  window.location.href = "C:/Users/felip/OneDrive/Área de Trabalho/MatMemoGame_versão1_oficial/PaginaFinal.html";
+  window.location.href = "../fase3/PaginaFinal.html";
 }
 
 // Obtém o elemento do botão por seu ID
