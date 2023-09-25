@@ -9,6 +9,8 @@ Relativo à programação, foi desenvolvido um código em jacvascript puro, as i
 vizualização da página sugiro reduzir o tamanho do zoom em 50% , tentei fazer isso direto pelo código mas não obtive exito,
 mesmo tentando modificar valores de escala, ainda estou tentando resolver esse conflito!
 
-relativo à mudança de estágios, ainda estou escrevendo os caminhos .. no entanto basta apontar o caminho das pastas da sua maquina..
+uma experiencia nesse jogo pode ser obtida no link:
+
+https://rafael-silva-natal.github.io/Matematics_MemoryGame/
 
 ...por hora é isso... R.Silva
