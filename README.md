@@ -5,7 +5,7 @@ associar imagens, ou seja , o motor da aplicação já está desenvolvido, e o t
 modificando a apresentação das imagens! nessa amostra de aplicação foi usada os conceitos fundamentais da matemática,
 em versões posteriores serão abordados os conceitos de Fisica e Quimica!
 
-Relativo à programação, foi desenvolvido um código em jacvascript puro, as imagens são manipuladas em arrays... para melhor 
+Relativo à programação, foi desenvolvido um código em javascript puro, as imagens são manipuladas em arrays... para melhor 
 vizualização da página sugiro reduzir o tamanho do zoom em 50% , tentei fazer isso direto pelo código mas não obtive exito,
 mesmo tentando modificar valores de escala, ainda estou tentando resolver esse conflito!
 
