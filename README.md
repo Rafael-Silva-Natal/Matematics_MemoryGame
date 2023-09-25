@@ -9,6 +9,8 @@ Relativo à programação, foi desenvolvido um código em jacvascript puro, as i
 vizualização da página sugiro reduzir o tamanho do zoom em 50% , tentei fazer isso direto pelo código mas não obtive exito,
 mesmo tentando modificar valores de escala, ainda estou tentando resolver esse conflito!
 
+Essa aplicação foi desenvolvida excusivamente para navegadores de computadores e notebooks, pois para melhor aprendizado do tema abordado o tamanho da imagem e seus textos relativos será melhor assimilado em navegadores expansivos, em navegadores de smartfones e tablets o manuseio com o zoom atrapalha a experiencia do jogo e consequentemente força a visão, e isso não é o objetivo da aplicação!!! navegadores expansivos trará melhor conforto ao usuário...
+
 uma experiencia nesse jogo pode ser obtida no link:
 
 https://rafael-silva-natal.github.io/Matematics_MemoryGame/
