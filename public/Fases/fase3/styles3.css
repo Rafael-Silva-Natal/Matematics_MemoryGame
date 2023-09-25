@@ -55,7 +55,7 @@
   
   .buttons-container {
     display: flex;
-    gap: 500px;/*espaçamento entre os botões*/
+    gap: 300px;/*espaçamento entre os botões*/
     margin-top: 0px;
    
   }
