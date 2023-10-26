@@ -98,8 +98,8 @@ function checkCards() {
   } else {
     // Cartas não correspondem
     setTimeout(() => {
-      card1.style.backgroundImage = `url(./images3/verso.png)`;
-      card2.style.backgroundImage = `url(./images3/verso.png)`;
+      card1.style.backgroundImage = `url(./images4/verso.png)`;
+      card2.style.backgroundImage = `url(./images4/verso.png)`;
       flippedCards = [];
       document.getElementById("checkButton").setAttribute("disabled", "true");
     }, 1000);
