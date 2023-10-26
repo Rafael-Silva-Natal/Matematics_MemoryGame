@@ -167,7 +167,7 @@ function checkCards() {
  // Função para lidar com o clique no botão
  function redirecionar3() {
   // Altere o URL abaixo para a página desejada
-  window.location.href = "../fase3/PaginaFinal.html";
+  window.location.href = "../fase4/fase4.html";
 }
 
 // Obtém o elemento do botão por seu ID
