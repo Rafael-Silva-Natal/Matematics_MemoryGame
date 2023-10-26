@@ -1,23 +1,23 @@
 const images = [
-    { id: 1, type: "pergunta", src: "./images3/pergunta1.png", matched: false },
-    { id: 2, type: "pergunta", src: "./images3/pergunta2.png", matched: false },
-    { id: 3, type: "pergunta", src: "./images3/pergunta3.png", matched: false },
-    { id: 4, type: "pergunta", src: "./images3/pergunta4.png", matched: false },
+    { id: 1, type: "pergunta", src: "./images9/pergunta1.png", matched: false },
+    { id: 2, type: "pergunta", src: "./images9/pergunta2.png", matched: false },
+    { id: 3, type: "pergunta", src: "./images9/pergunta3.png", matched: false },
+    { id: 4, type: "pergunta", src: "./images9/pergunta4.png", matched: false },
 
-    { id: 5, type: "resposta", src: "./images3/resposta1.png", questionId: 1, matched: false },
-    { id: 6, type: "resposta", src: "./images3/resposta2.png", questionId: 2, matched: false },
-    { id: 7, type: "resposta", src: "./images3/resposta3.png", questionId: 3, matched: false },
-    { id: 8, type: "resposta", src: "./images3/resposta4.png", questionId: 4, matched: false },
+    { id: 5, type: "resposta", src: "./images9/resposta1.png", questionId: 1, matched: false },
+    { id: 6, type: "resposta", src: "./images9/resposta2.png", questionId: 2, matched: false },
+    { id: 7, type: "resposta", src: "./images9/resposta3.png", questionId: 3, matched: false },
+    { id: 8, type: "resposta", src: "./images9/resposta4.png", questionId: 4, matched: false },
 
-    { id: 9, type: "pergunta", src: "./images3/pergunta5.png", matched: false },
-    { id: 10, type: "pergunta", src: "./images3/pergunta6.png", matched: false },
-    { id: 11, type: "pergunta", src: "./images3/pergunta7.png", matched: false },
-    { id: 12, type: "pergunta", src: "./images3/pergunta8.png", matched: false },
+    { id: 9, type: "pergunta", src: "./images9/pergunta5.png", matched: false },
+    { id: 10, type: "pergunta", src: "./images9/pergunta6.png", matched: false },
+    { id: 11, type: "pergunta", src: "./images9/pergunta7.png", matched: false },
+    { id: 12, type: "pergunta", src: "./images9/pergunta8.png", matched: false },
     
-    { id: 13, type: "resposta", src: "./images3/resposta5.png", questionId: 9, matched: false },
-    { id: 14, type: "resposta", src: "./images3/resposta6.png", questionId: 10, matched: false },
-    { id: 15, type: "resposta", src: "./images3/resposta7.png", questionId: 11, matched: false },
-    { id: 16, type: "resposta", src: "./images3/resposta8.png", questionId: 12, matched: false }
+    { id: 13, type: "resposta", src: "./images9/resposta5.png", questionId: 9, matched: false },
+    { id: 14, type: "resposta", src: "./images9/resposta6.png", questionId: 10, matched: false },
+    { id: 15, type: "resposta", src: "./images9/resposta7.png", questionId: 11, matched: false },
+    { id: 16, type: "resposta", src: "./images9/resposta8.png", questionId: 12, matched: false }
   ];
 
 
