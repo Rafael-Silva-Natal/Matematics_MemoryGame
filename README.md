@@ -25,12 +25,18 @@ Química
 
 https://rafael-silva-natal.github.io/QuimicaMemoryGame_vers-o1/
 
-...por hora é isso... R.Silva
+
+Estou trabalhando tambem versões em outros idiomas!
+
 Versão inglesa:
+
 ![pergunta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/2406fc68-5e04-4065-9862-d1076b7b82ea)
 ![resposta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/31393226-7b7e-4a3d-82b6-b6fcbdc1b4be)
-Japonesa:
-![pergunta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/f3cbd09c-945c-4150-9c6f-c1781486a80e)
 
+Versão Japonesa:
+
+![pergunta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/f3cbd09c-945c-4150-9c6f-c1781486a80e)
 ![resposta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/d6f2f1ec-2797-4ae8-ac5f-b16817780bed)
 
+
+...por hora é isso... R.Silva
