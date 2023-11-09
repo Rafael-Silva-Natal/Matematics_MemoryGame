@@ -15,4 +15,10 @@ uma experiencia nesse jogo pode ser obtida no link:
 
 https://rafael-silva-natal.github.io/Matematics_MemoryGame/
 
+experimente tambem as versões em outras materias ciêntificas:
+Fisíca
+https://rafael-silva-natal.github.io/FisicaMemGame_vers-o1/
+Química
+https://rafael-silva-natal.github.io/QuimicaMemoryGame_vers-o1/
+
 ...por hora é isso... R.Silva
