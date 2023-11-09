@@ -36,7 +36,7 @@ Versão inglesa:
 Versão Japonesa:
 
 ![pergunta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/f3cbd09c-945c-4150-9c6f-c1781486a80e)
-![resposta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/d6f2f1ec-2797-4ae8-ac5f-b16817780bed)
+![resposta3](https://github.com/Rafael-Silva-Natal/Matematics_MemoryGame/assets/112540418/cb240df3-f0fe-429f-9322-bd15ec5da9dc)
 
 
 ...por hora é isso... R.Silva
